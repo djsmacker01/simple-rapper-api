@@ -19,7 +19,7 @@ const rappers = {
     age: 39,
     birthName: "Chancelor Johnathan Bennett ",
     birthLocation: "St. Joseph, Missouri, U.S.",
-  },
+  }, 
 
    "Dylan": { 
     age: 39,
