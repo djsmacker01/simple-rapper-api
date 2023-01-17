@@ -1,0 +1,14 @@
+{
+  "name": "rep-names-api",
+  "version": "1.0.0",
+  "description": "Name of Rappers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "djsmacker01",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
